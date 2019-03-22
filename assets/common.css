@@ -1,0 +1,18 @@
+a{
+    text-decoration: none;
+}
+body{
+    min-height: 100vh;
+}
+
+a{
+    color:#aaa
+}
+
+*{
+    margin: 0 ;padding: 0
+}
+ul{
+    list-style: none;   
+}
+
